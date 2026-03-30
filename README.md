@@ -77,7 +77,11 @@ Your app will open instantly on your device 🚀
 ---
 
 ## 📸 Screenshots
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/Home.jpeg" width="32%"/>
+  <img src="screenshots/Task.jpeg" width="32%"/>
+  <img src="screenshots/Profile.jpeg" width="32%"/>
+</div>
 
 
 ---
